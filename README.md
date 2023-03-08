@@ -1,1 +1,2 @@
-this directory is about shell basics
+#!/bin/bash
+This repo is about shell basics
